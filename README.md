@@ -5,8 +5,8 @@
 - 📫 How to reach me: eng.noofsaeed@gmail.com .
 
 ### 🚀 Technologies I know
-- HTML, CSS, Javascript , C# , PHP ,APIs , MVC.
+- HTML, CSS, Javascript , C# , PHP ,APIs , MVC , vue.js
 - Project Management (Github,Trello).
 - Databases (MSSQL,MYSQL).
-- Web Framework (laravel,asp.net core).
+- Web Framework (laravel,.net core).
 - Automation testing (selenium webdriver , Laravel Dusk).
